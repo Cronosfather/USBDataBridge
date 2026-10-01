@@ -1,0 +1,13 @@
+build/
+dist/
+*.exe
+*.dll
+*.apk
+*.keystore
+*.jks
+*.p12
+*.log
+__pycache__/
+.vs/
+.idea/
+local.properties
